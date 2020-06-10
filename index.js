@@ -4,5 +4,5 @@ function firstFunction () {
 }
 
 function addedBugFixBranch() {
-    
+    return 'Bug fix function here'
 }
