@@ -6,3 +6,7 @@ function firstFunction () {
 function addedBugFixBranch() {
     return 'Bug fix function here'
 }
+
+function addedMasterStuff() {
+    return 'master function created'
+}
