@@ -14,3 +14,5 @@ function addedMasterStuff() {
 function homeFunction() {
     return 'home'
 }
+
+function testFunc() {}
