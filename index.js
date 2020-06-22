@@ -10,3 +10,7 @@ function addedBugFixBranch() {
 function addedMasterStuff() {
     return 'master function created'
 }
+
+function homeFunction() {
+    return 'home'
+}
