@@ -9,7 +9,6 @@ function addedBugFixBranch() {
 
 function addedMasterStuff() {
     return 'master function created'
-<<<<<<< HEAD
 }
 
 function homeFunction() {
@@ -17,6 +16,3 @@ function homeFunction() {
 }
 
 function testFunc() {}
-=======
-}
->>>>>>> a263f93a952a8b54c5559d6cc31951ece254b4e7
